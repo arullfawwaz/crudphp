@@ -1,4 +1,4 @@
-# Source Code CRUD PHP 
+# Source Code CRUD
 Teknologi :
 - PHP 8.*
 - Bootstrap 4.*
@@ -6,15 +6,15 @@ Teknologi :
 
 User Login
 1. Akun Admin
-- username : mubatecno
+- username : fawwaz
 - password : 123456
 
 2. Akun Operator Barang
-- username : operator barang
+- username : jihad
 - password : 123456
 
 3. Akun Operator Mahasiswa
-- username : operator mahasiswa
-- password : 123456
+- username : nobita
+- password : 123456789
 
-link akses : localhost/crudphp
+
