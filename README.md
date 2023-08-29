@@ -1,4 +1,4 @@
-# Source Code CRUD
+# Source Code full CRUD php
 Teknologi :
 - PHP 8.*
 - Bootstrap 4.*
@@ -14,6 +14,5 @@ User Login
 - password : 123456
 
 3. Akun Operator Mahasiswa
-- username : farel
-- password : 123456
-
+- username : nobita
+- password : 123456789
