@@ -14,7 +14,7 @@ User Login
 - password : 123456
 
 3. Akun Operator Mahasiswa
-- username : nobita
-- password : 123456789
+- username : farel
+- password : 123456
 
 
